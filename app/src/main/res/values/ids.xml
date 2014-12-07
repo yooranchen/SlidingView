@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="leftId">0xaabbcc</integer>
+    <integer name="middleId">0xaaccbb</integer>
+    <integer name="rightId">0xbbaacc</integer>
+</resources>
